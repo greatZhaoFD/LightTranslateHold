@@ -1,0 +1,15 @@
+# 本地配置/日志（不提交）
+settings.json
+logs/
+*.log
+
+# 构建/测试临时文件
+test-data/
+*.pdb
+*.tmp
+*.user
+
+# IDE / 系统
+.vs/
+Thumbs.db
+desktop.ini
